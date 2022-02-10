@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Bracer style option
+style=java
+
+# Indent
+indent=spaces=4
+indent-switches
+indent-preproc-define
+indent-preproc-block
+indent-col1-comments
+
+max-code-length=100
+suffix=none
+lineend=linux
+pad-header
+max-continuation-indent=60
